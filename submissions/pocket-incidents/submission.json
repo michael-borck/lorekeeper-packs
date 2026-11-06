@@ -1,0 +1,11 @@
+{
+  "packId": "pocket-incidents",
+  "title": "Pocket Incidents: The 3AM Page",
+  "author": "Michael Borck",
+  "contact": "michael@borck.dev",
+  "licence": "Course content",
+  "version": "1.0.0",
+  "description": "A short incident-response pack: evidence, containment and the record.",
+  "changes": "Initial published example.",
+  "status": "published"
+}
